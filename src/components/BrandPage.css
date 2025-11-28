@@ -1,0 +1,65 @@
+.brand-page{
+  min-height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:20px;
+  background: linear-gradient(180deg,#000,#0b0b0b);
+  color:#fff;
+  font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.brand-box{
+  width:100%;
+  max-width:420px;
+  background:#0f0f10;
+  padding:28px;
+  border-radius:18px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.6);
+  text-align:center;
+  border:1px solid rgba(255,255,255,0.04);
+}
+
+.brand-logo{
+  width:250px;
+  margin:0 auto 8px;
+  display:block;
+}
+
+.brand-title{ font-size:26px; margin:6px 0; font-weight:700;}
+.brand-title span{ color:#AA367C; }
+
+.brand-sub{ color:#cfcfcf; margin-bottom:18px;}
+
+.social-links{ display:flex; flex-direction:column; gap:12px; margin-bottom:18px; }
+.social-links a{
+  display:block;
+  padding:12px;
+  border-radius:12px;
+  text-decoration:none;
+  font-weight:600;
+  background: linear-gradient(90deg,#AA367C,#4A2FBD);
+  color:#fff;
+  transition: transform .15s ease, opacity .15s ease;
+}
+.social-links a:hover{
+  transform: translateY(-3px);
+  opacity: 0.95;
+}
+
+.small-note{ font-size:12px; color:#9a9a9a; margin-top:12px; }
+@media(min-width:600px){
+  .social-links{ flex-direction:column; }
+}
+
+.typing {
+  border-right: 3px solid #AA367C;
+  padding-right: 4px;
+  animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+  0% { border-color: transparent; }
+  50% { border-color: #AA367C; }
+  100% { border-color: transparent; }
+}
