@@ -41,6 +41,11 @@
   background: linear-gradient(90deg,#AA367C,#4A2FBD);
   color:#fff;
   transition: transform .15s ease, opacity .15s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  font-weight: 600;
 }
 .social-links a:hover{
   transform: translateY(-3px);
@@ -63,3 +68,5 @@
   50% { border-color: #AA367C; }
   100% { border-color: transparent; }
 }
+
+
