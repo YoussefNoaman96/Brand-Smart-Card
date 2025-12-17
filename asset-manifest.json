@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Brand-Smart-Card/static/css/main.047b843c.css",
-    "main.js": "/Brand-Smart-Card/static/js/main.4cc2d47c.js",
+    "main.css": "/Brand-Smart-Card/static/css/main.28bcb2c0.css",
+    "main.js": "/Brand-Smart-Card/static/js/main.4751501c.js",
     "static/js/453.a9777e4b.chunk.js": "/Brand-Smart-Card/static/js/453.a9777e4b.chunk.js",
-    "static/media/logo-f (1).png": "/Brand-Smart-Card/static/media/logo-f (1).ab73c5b70e9b64b66089.png",
+    "static/media/logo.png": "/Brand-Smart-Card/static/media/logo.6a5f59dff52aa62331a9.png",
     "index.html": "/Brand-Smart-Card/index.html",
-    "main.047b843c.css.map": "/Brand-Smart-Card/static/css/main.047b843c.css.map",
-    "main.4cc2d47c.js.map": "/Brand-Smart-Card/static/js/main.4cc2d47c.js.map",
+    "main.28bcb2c0.css.map": "/Brand-Smart-Card/static/css/main.28bcb2c0.css.map",
+    "main.4751501c.js.map": "/Brand-Smart-Card/static/js/main.4751501c.js.map",
     "453.a9777e4b.chunk.js.map": "/Brand-Smart-Card/static/js/453.a9777e4b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.047b843c.css",
-    "static/js/main.4cc2d47c.js"
+    "static/css/main.28bcb2c0.css",
+    "static/js/main.4751501c.js"
   ]
 }
